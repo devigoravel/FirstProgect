@@ -651,7 +651,7 @@ input[type='search']::-webkit-search-results-decoration {
 /* section-intro__image-container */
 .section-intro__image-container {
 	width: 50%;
-	background-image: url(../../images/design_bg.jpg);
+	background-image: url(../images/design_bg.jpg);
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -756,15 +756,15 @@ input[type='search']::-webkit-search-results-decoration {
 
 
 .section-one .section-template__background {
-  background-image: url(../../images/reading-house-img.jpg);
+  background-image: url(../images/reading-house-img.jpg);
 }
 
 .section-two .section-template__background {
-  background-image: url(../../images/barble-staircase-img.jpg);
+  background-image: url(../images/barble-staircase-img.jpg);
 }
 
 .section-three .section-template__background {
-  background-image: url(../../images/staircase-img.jpg);
+  background-image: url(../images/staircase-img.jpg);
 	justify-content: flex-start;
 }
 
